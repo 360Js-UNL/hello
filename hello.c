@@ -12,6 +12,6 @@
     printf("Jonah Splichal!\n");
     printf("Computer Science\n");
 
-    return 0 
+    return 0;
 
  }
